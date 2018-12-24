@@ -9,7 +9,7 @@
 	},
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
+	"appid": "wx7d0f748cac3926c4",
 	"projectname": "notebook",
 	"condition": {
 		"search": {
