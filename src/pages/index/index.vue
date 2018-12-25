@@ -37,7 +37,7 @@
           <div class="">
             <h4>愿望券</h4>
             <p>该券可以找本小程序开发者兑换使用</p>
-            <p>使用人仅限王家芮同学</p>
+            <p>使用人仅限王佳芮同学</p>
             <p>使用方式：截图保存然后发送给开发者，说明心愿</p>
             <i class="userIcon" >未使用</i>
           </div>
@@ -79,7 +79,7 @@ export default {
         },
         {
           pic:'http://dscdn-1251575231.file.myqcloud.com/site_views/IMG_1568.JPG',
-          name:'家芮真好看'
+          name:'佳芮真好看'
         }
       ]
     }
@@ -146,7 +146,7 @@ export default {
   },
   onShareAppMessage: function (res) {
     return {
-      title: '平安夜快乐',
+      title: '圣诞节快乐',
       path: '/pages/index/main',
       success: function(res) {
         // 转发成功
